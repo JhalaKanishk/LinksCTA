@@ -272,7 +272,7 @@ export default function Component() {
             <h3 className="text-2xl font-serif text-gray-800 mb-6">Connect with tee._writes</h3>
             <div className="flex justify-center space-x-6">
               <a
-                href="#"
+                href="https://www.instagram.com/tee_.writes/?hl=en"
                 className="p-3 rounded-full bg-gradient-to-r from-pink-100 via-blue-100 to-purple-100 hover:bg-gradient-to-r from-pink-200 via-blue-200 to-purple-200 backdrop-blur-sm border borderèvre
               border-white/30 transition-all hover:scale-110"
               >
