@@ -17,7 +17,7 @@ I find myself writing letters
 to the person I used to be.
 
 The ink flows like morning mist,
-carrying dreams I thought I'd lost,
+carrying dreams I thought I had lost,
 and in each word, I discover
 that healing has its own rhythm.
 
@@ -39,7 +39,7 @@ that could move mountains.
 Each poem was a seed of hope,
 scattered by the wind of her voice,
 taking root in the minds of strangers
-who needed to hear they weren't alone.
+who needed to hear they were not alone.
 
 In her garden of words,
 every season brought new growth,
@@ -62,7 +62,7 @@ when the world is sleeping
 and your heart is wide awake.
 
 I write by moonlight because
-that's when the truth feels safest,
+that is when the truth feels safest,
 when words can be themselves
 without fear of judgment.`,
     image: "/images/p3.jpg",
@@ -70,8 +70,8 @@ without fear of judgment.`,
   {
     id: 4,
     title: "Phoenix Rising",
-    excerpt: "From the ashes of yesterday's pain, new strength emerges...",
-    fullText: `From the ashes of yesterday's pain,
+    excerpt: "From the ashes of yesterdays pain, new strength emerges...",
+    fullText: `From the ashes of yesterdays pain,
 new strength emerges,
 phoenix-like and fierce,
 carrying the wisdom of survival.
@@ -177,7 +177,7 @@ export default function Component() {
                       readers to their own stories of resilience, love, and growth.
                     </p>
                     <blockquote className="text-xl font-serif italic text-gray-600 border-l-4 border-pink-200 pl-4 my-6">
-                      "Poetry is not just what I write, it's how I breathe life into the silence between heartbeats."
+                      &quotPoetry is not just what I write, it&aposs how I breathe life into the silence between heartbeats.&quot
                     </blockquote>
                   </div>
                 </div>
