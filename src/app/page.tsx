@@ -4,7 +4,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   Github,
-  Instagram,
+  // Instagram,
   Linkedin,
   Mail,
   Globe,
@@ -226,7 +226,7 @@ export default function SocialLinksLanding() {
         animate="visible"
       >
 
-        
+
         {/* Profile Section */}
         <motion.div className="text-center mb-12" variants={itemVariants}>
           <motion.div
