@@ -283,7 +283,7 @@ export default function SocialLinksLanding() {
         {/* Social Links */}
         <motion.div className="space-y-4" variants={containerVariants}>
           <AnimatePresence>
-            {socialLinks.map((link, index) => {
+            {socialLinks.map((link) => {
               const IconComponent = link.icon;
               return (
                 <motion.a
