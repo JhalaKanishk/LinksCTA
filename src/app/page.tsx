@@ -225,6 +225,8 @@ export default function SocialLinksLanding() {
         initial="hidden"
         animate="visible"
       >
+
+        
         {/* Profile Section */}
         <motion.div className="text-center mb-12" variants={itemVariants}>
           <motion.div
